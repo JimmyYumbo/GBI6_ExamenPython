@@ -27,6 +27,9 @@ Microsoft Graphics Hybrid: Not Supported
 # Programas utilizados 
 - github
 - gitbash
-- python
+- Python/Anaconda con la version de Anaconda Navigator 2.1.1
+- Los paquetes utilizados en python fueron (!pip install biopython -!pip install reportlab -!pip install nglview)
 - jupyter notebook
 # Data Utilizada
+- Escogi un gen denominado Lactobacillus acidophilus 16S rRNA la cual descargue el accession list, seguidamente descargue las secuencias de cada uno 
+de los resultados, para luego proceder hacer un alineamiento en la pagina web https://www.ebi.ac.uk/ seguidamente descargue la data alineada para finalmente subirlo al Notebook
